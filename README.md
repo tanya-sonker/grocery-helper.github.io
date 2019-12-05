@@ -7,7 +7,7 @@ A web application to enhance your grocery shopping experience by making it more 
 
 # Built with:
 - Front-end: HTML, CSS, JavaScript
-- Back-end: PHP, Python, SQL
+- Back-end: PHP, Python, MySQL
 - Used to be hosted [here](https://grocery-helper.github.io) but after writing PHP scripts, we switched to hosting locally using XAMPP.
 
 # Demo 
